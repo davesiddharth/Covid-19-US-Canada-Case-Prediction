@@ -1,4 +1,4 @@
-Using ARIMA model predict Covid-19 cases for US and Canada
+# Using ARIMA model predict Covid-19 cases for US and Canada
 
 Project Start Date: 7th March 2020 
 Project End Date: 19th March 2020
