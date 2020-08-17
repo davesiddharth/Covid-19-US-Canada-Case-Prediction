@@ -23,4 +23,4 @@ The predictions were solely based on the China's covid-19 case trajectory from 2
 
 #### Results:
 
-![image](https://raw.github.com/davesiddharth/Covid-19-US-Canada-Case-Prediction/master/result_chart.png)
+![](result_chart.PNG)
