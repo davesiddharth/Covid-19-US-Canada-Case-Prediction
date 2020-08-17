@@ -1,1 +1,5 @@
-# DA-BC-Project-One
+Covid-19 case Prediction Using ARIMA model
+
+Question:
+
+- 
